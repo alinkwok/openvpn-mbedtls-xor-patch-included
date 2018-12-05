@@ -1,6 +1,6 @@
 # openvpn-mbedtls-xor-patch-included
 
-OpenVPN Version 2.4.6 
+OpenVPN Version 2.4.6 for OpenWrt Lede
 
 Added Tunnelblick Patch for Obfuscated OpenVPN Servers
 
